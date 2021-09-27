@@ -1,0 +1,5 @@
+Software	Software
+Project Name:	SampleName_sufix
+Date/Time:	DD.MM.RRRR HH:MM:SS
+
+Index	Pos	A#(F;R)	C#(F;R)	G#(F;R)	T#(F;R)	

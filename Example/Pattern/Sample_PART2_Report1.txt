@@ -1,0 +1,5 @@
+Software	Software
+Project Name:	Sample_ProjectName
+Date/Time:	DD.MM.RRRR HH:MM:SS
+
+Index	Chrom	Pos	Coverage	Alt	Ref#(F;R)	Alt#(F;R)	Alt%	A#(F;R)	C#(F;R)	G#(F;R)	T#(F;R)	Overall Score	Mutation Call: Genomic	Mutation Call: Relative To mRNA	Function	Gene	Amino Acid Change	

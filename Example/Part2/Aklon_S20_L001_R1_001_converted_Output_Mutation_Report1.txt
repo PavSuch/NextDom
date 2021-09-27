@@ -1,0 +1,9 @@
+Software	NextGENe V2.4.2.2
+Project Name:	Aklon_S20_L001_R1_001_converted_Output.pjt
+Date/Time:	04.12.2020 9:48:36
+
+Index	Chrom	Pos	Coverage	Alt	Ref#(F;R)	Alt#(F;R)	Alt%	A#(F;R)	C#(F;R)	G#(F;R)	T#(F;R)	Overall Score	Mutation Call: Genomic	Mutation Call: Relative To mRNA	Function	Gene	Amino Acid Change	
+1	9	270	1661	G	420;1214	2;25	1,63	420;1214	0;0	2;25	0;0	25,7	A>AG	c.270A>AG	Synonymous	ABL1	p.E26EE	
+2	9	941	14370	A	3666;3015	3460;4225	53,48	3460;4225	1;1	3666;3015	1;0	33,1	G>AG	c.941G>AG	Missense	ABL1	p.G250EG	
+3	9	1458	13305	A	4140;2426	4666;2019	50,24	4666;2019	4140;2426	2;0	6;5	32,9	C>AC	c.1458C>AC	Synonymous	ABL1	p.V422VV	
+4	9	1693	1471	G	1276;185	9;1	0,68	1276;185	0;0	9;1	0;0	25,3	A>AG	c.1693A>AG	Missense	ABL1	p.S501SG	
